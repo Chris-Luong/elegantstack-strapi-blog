@@ -1,0 +1,41 @@
+# Available commands in your project
+
+## `develop`
+
+Run Gatsby development site.
+
+```bash
+npm run strapi
+# or
+yarn strapi
+```
+
+## `build`
+
+Build your Gatsby site for production.
+
+```bash
+npm run strapi
+# or
+yarn strapi
+```
+
+## `serve`
+
+Serve production site.
+
+```bash
+npm run strapi
+# or
+yarn strapi
+```
+
+## `clean`
+
+Everytime you modify `gatsby-config.js` file, you need to clean the cache. Then run develop to start dev server.
+
+```bash
+npm run clean
+# or
+yarn clean
+```
